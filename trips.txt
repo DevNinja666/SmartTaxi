@@ -1,0 +1,3 @@
+Elmler,Ganclik,,22,economy
+bakixanov,neftciler,,33,economy
+Razin,Bileceri,,28,economy
